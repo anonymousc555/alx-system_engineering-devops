@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | cut -f4
+ls -t | head -n 10
